@@ -2,19 +2,23 @@
 **My first project in C++.**
 A simple project in C++ that attempts to recreate the classic hangman game.
 
-## Game
+## GamePlay
+<details>
+    
 The game starts off on a simple home page:<br>
-![](/home.png)<br>
+<img src="./home.png" width="500"/>
+<br>
 Once 'p' is pressed, the game starts. 
 A random word(somewhat) is chosen by the compiler and the player is tasked at guessing it in 7 chances.<br>
-![](/g2.png)<br>
+<img src="./g2.png" width="500"/><br>
 The hangman is drawn at each step. 0 wrong choices would show a happy man.<br>
-![](/g1.png)<br>
+<img src="g1.png" width="500"> <br>
 The player wins if he/she is able to guess the word in 7 chances. <br>
-![](/win.png)<br>
+<img src="win.png" width="500"><br>
     OR else..<br>
-![](/lost.png)
+<img src="lost.png" width="500">
 
+</details>
 
 ## How to play
 The files can be run on the simple terminal in Linux or VS Code. <br>

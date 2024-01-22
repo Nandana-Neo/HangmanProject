@@ -9,16 +9,17 @@
 <ol>
   <li> Download the 3 files and put all 3 in the same folder.</li>
   <li> Open the terminal in that folder.</li>
-  <li> Run the following code:
-        
-      `g++ hangman.cpp hangmanfunc.cpp`
+  <li> Run the following code: 
+      
+            ```g++ hangman.cpp hangmanfunc.cpp```
+            
   <strong>Note</strong>:Ensure that g++ compiler is installed
   </li>
   <li> Run this code:
     <ul>
-      <li>  
-        
-          ```a.exe```
+      <li> 
+          
+          `a.exe`
           
   In VS Code terminal
       </li>

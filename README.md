@@ -49,9 +49,9 @@ The program waits for the user to press a 'p'. As soon as the button is pressed,
 
 I have learnt a lot of interesting commands through this project. 
 - Using rand() function and then selecting the word using rand() and % operator was a really cunning and easy trick to choose random words.
-- Using the <windows.h> header file is quite new to me. The following commands' usage were truly mindblowing.
-      - system("clear");
-      - SetConsoleCursorPosition();
+- Using the <windows.h> header file is quite new to me. The following commands' usage were truly mindblowing:
+    - system("clear");
+    - SetConsoleCursorPosition();
 - Drawing the hangman was an extremely scary task at first, but after familiarizing with `COORD` and `SetConsoleCursorPosition()`,this became the most interesting. `SetConsoleCursorPosition()` was an amazing help in the process and I will never forget this cool function.
 - This project made me realize the importance of switch cases.
 - Not to forget the `system("clear")` function which made the terminal actually game-like.

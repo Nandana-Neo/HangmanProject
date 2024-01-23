@@ -25,7 +25,7 @@ The files can be run on the simple terminal in Linux or VS Code. <br>
 Requirements: G++ compiler installed and working
 
 ### STEPS:
-1. Download the 3 files: [hangman.cpp](/hangman.cpp), [hangmanfunc.cpp](./hangmanfunc.cpp) and [hangmanfunc.h](hangmanfunc.h) and put all 3 in the same folder.
+1. Download the 3 files: [hangman.cpp](https://github.com/Nandana-Neo/HangmanProject/raw/main/hangman.cpp), [hangmanfunc.cpp](./hangmanfunc.cpp) and [hangmanfunc.h](hangmanfunc.h) and put all 3 in the same folder.
 1. Open the terminal in that folder.
 1. Run the following code: 
 `g++ hangman.cpp hangmanfunc.cpp`            

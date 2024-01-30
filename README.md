@@ -21,7 +21,7 @@ The player wins if he/she is able to guess the word in 7 chances. <br>
 </details>
 
 ## How to play
-The files can be run on the simple terminal in Linux or VS Code. <br>
+The files can be run on the simple terminal in VS Code. <br>
 Requirements: G++ compiler installed and working
 
 ### STEPS:
@@ -32,7 +32,6 @@ Requirements: G++ compiler installed and working
  <br>**Note**: Ensure that g++ compiler is installed<br>
 1. Run this code:
     - In VS Code terminal `a.exe`
-    - In linux terminal `./a.out`
 <br>
 That is it! You can now play the classic hangman on your favourite terminal. Have fun!
 
